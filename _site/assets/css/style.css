@@ -348,3 +348,5 @@ h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", Arial, san
 
 /* Hover effect */
 .page-header nav a:hover { background: #ff0030; /* RoyalLawX red */ border-color: #ff0030; color: #fff; transform: translateY(-2px); }
+
+.no-underline { text-decoration: none; }

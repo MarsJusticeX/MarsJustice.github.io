@@ -12,5 +12,5 @@ Legal, Enforcement and Civil Rights community driving Federal Oversight and Pros
 - Subscribe to [YouTube](https://www.youtube.com/@MarsJusticeX)  
 - Stay tuned at [X](https://x.com/MarsJusticeX)
 - Follow on [Instagram](https://www.instagram.com/MarsJusticeX)  
-- Stay in touch at [Facebook](https://www.facebook.com/MarsJusticeX)     
+- Stay in touch at [Facebook](https://www.facebook.com/groups/marsjusticex/)     
 - Contacts: [MarsJustice@pm.me](mailto:MarsJustice@pm.me)   

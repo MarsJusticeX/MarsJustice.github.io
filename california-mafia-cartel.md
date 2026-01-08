@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "California Judicial Mafia Cartel"
-permalink: /california-judicial-mafia-cartel/
+title: "California Mafia Cartel"
+permalink: /california-mafia-cartel/
 ---
-# California Judicial Mafia Cartel
+# California Mafia Cartel
 
 Organized criminal syndicate committing child trafficking, kidnappings, theft, extortion and racketeering under color of law across all California courts - protected by criminals in California Commission on Judicial Performance, California Bar Association, Attorney General Office, and District Attorney Office.
 
-## California Judicial Mafia Cartel map of criminal hierarchy with the names of exposed criminals:
+## California Mafia Cartel map of criminal hierarchy with the names of exposed criminals:
 
 [![Map]({{ '/assets/png/california-judicial-mafia-cartel-map.png' | relative_url }})]({{ '/assets/png/california-judicial-mafia-cartel-map.png' | relative_url }})
 
