@@ -1,10 +1,7 @@
 # [MarsJustice.co](http://www.MarsJustice.co/) 
 
-FOR THE FUTURE. FOR CHILDREN ⚔️❤️🇺🇸 
+🔴 FOR THE FUTURE. FOR CHILDREN ⚔️❤️🇺🇸 
   
 Legal, Enforcement and Civil Rights community driving Federal Oversight and Prosecution of State-Level Child Trafficking and Racketeering Judicial Criminal Syndicates like California Judicial Mafia Cartel and Santa Clara Mafia Cartel     
-  
-Find more at [Blog](https://MarsJustice.blog/)  
-Subscribe to [YouTube](https://www.youtube.com/@MarsJusticeX)  
-  
+
 Contacts: [MarsJustice@pm.me](mailto:MarsJustice@pm.me)  
