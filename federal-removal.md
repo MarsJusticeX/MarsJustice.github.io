@@ -28,7 +28,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [1.6 Appellate Denial to Change Venue and Complete Reassessment of All Void Orders (Manoukian)](/federal-removal/evidence/1.6%20Appellate%20Denial%20to%20Change%20Venue%20and%20Complete%20Reassessment%20of%20All%20Void%20Orders%20(Manoukian).pdf)
 
-- [1.7. Notice of Filing of Notice of Removal - Santa Clara County](/federal-removal/evidence/1.7.%20Notice%20of%20Filing%20of%20Notice%20of%20Removal%20-%20Santa%20Clara%20County.pdf)
+- [1.7 Notice of Filing of Notice of Removal - Santa Clara County](/federal-removal/evidence/1.7%20Notice%20of%20Filing%20of%20Notice%20of%20Removal%20-%20Santa%20Clara%20County.pdf)
 
 
 ### SET 2 — Judicial Disqualification & Void Jurisdiction Evidence
