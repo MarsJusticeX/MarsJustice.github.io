@@ -9,10 +9,10 @@ Federal Removal materials are published here publicly for transparency about abd
 
 
 
-## CONSOLIDATED EXHIBIT BINDER (SETS 1–10) IN SUPPORT OF NOTICE OF FEDERAL REMOVAL, CIVIL RICO COMPLAINT, AND EMERGENCY TRO
+## 🔴 CONSOLIDATED EXHIBIT BINDER (SETS 1–10) IN SUPPORT OF NOTICE OF FEDERAL REMOVAL, CIVIL RICO COMPLAINT, AND EMERGENCY TRO
 
 
-### SET 1 — Federal Filings & Jurisdiction Proof
+### ⭕️ SET 1 — Federal Filings & Jurisdiction Proof
 
 - [1.1 Notice of Removal — Filing Version - Austin, Texas (Unstamped)](/federal-removal/evidence/1.1%20Notice%20of%20Removal%20—%20Filing%20Version%20-%20Texas%20(Unstamped).pdf)
 
@@ -31,7 +31,7 @@ Federal Removal materials are published here publicly for transparency about abd
 - [1.7 Notice of Filing of Notice of Removal - Santa Clara County](/federal-removal/evidence/1.7%20Notice%20of%20Filing%20of%20Notice%20of%20Removal%20-%20Santa%20Clara%20County.pdf)
 
 
-### SET 2 — Judicial Disqualification & Void Jurisdiction Evidence
+### ⭕️ SET 2 — Judicial Disqualification & Void Jurisdiction Evidence
 
 - [2.1 Statement of Disqualification – Lowney](/federal-removal/evidence/2.1%20Statement%20of%20Disqualification%20–%20Lowney.pdf)
 
@@ -63,7 +63,7 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2.7 Summary Chart – Void Orders After DQ](/federal-removal/evidence/2.7%20Summary%20Chart%20–%20Void%20Orders%20After%20DQ.pdf)
 
 
-### SET 3 — Void Orders, Warrants & Predicate Acts
+### ⭕️ SET 3 — Void Orders, Warrants & Predicate Acts
 
 - [3.1 DVRO (Towery – 2022-09-14)](/federal-removal/evidence/3.1%20DVRO%20(Towery%20–%202022-09-14).pdf)
 
@@ -84,10 +84,10 @@ Federal Removal materials are published here publicly for transparency about abd
 
 
 
-## SUPPLEMENTAL EVIDENCE
+## 🔴 SUPPLEMENTAL EVIDENCE
 
 
-### 1. Racketeering record of organized criminal group of aggressive Ukrainian homosexual pedofiles Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainan Mafia Cartel "Kodlo Gondona Nahornogo" acting under guise of business "SI Trans Group"):
+### ⭕️ 1. Racketeering record of organized criminal group of aggressive Ukrainian homosexual pedofiles Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainan Mafia Cartel "Kodlo Gondona Nahornogo" acting under guise of business "SI Trans Group"):
 - [2015 Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo", acting under guise of "SI Trans Group") - Racketeering, seizure of property and hostile takeover of business from Serhii Rybalko](/federal-removal/evidence/2015%20Gondon%20Nahornyy%20and%20Ivan%20Omelchenko%20-%20Racketeering%20and%20hostile%20takeover%20of%20business%20from%20Serhii%20Rybalko%20by%20Ukrainian%20Mafia%20Cartel.pdf) 
 - [Original media article by Agravery.com](https://agravery.com/uk/posts/show/nove-zitta-pisla-rozlucenna-istoria-sgroup)
 
@@ -98,7 +98,7 @@ Federal Removal materials are published here publicly for transparency about abd
 - [Original page of Ukrainian IRS - SI Trans Group registration for Sir Gay "Gondon" Nahornyy (Serhii "Gondon" Nahornyy)](https://youcontrol.com.ua/catalog/company_details/35042793/)
   
   
-### 2. Disqualification of James Towery for racketeering, unlawful seizure of real estate property and selling it for personal gains (removed from court under guise of "retirement" due to his RICO and 5 Disqualifications media scandal in 2022) 
+### ⭕️ 2. Disqualification of James Towery for racketeering, unlawful seizure of real estate property and selling it for personal gains (removed from court under guise of "retirement" due to his RICO and 5 Disqualifications media scandal in 2022) 
 
 - [2017-01-12 Disqualification against Towery - Susan Bassi - Case 20126FL009065](/federal-removal/evidence/2017-01-12%20Disqualification%20against%20Towery%20-%20Susan%20Bassi%20-%20Case%2020126FL009065.pdf) 
 
@@ -106,12 +106,12 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2022 - Towery retirement and BBMP in public media - Davis Vanguard article - Full](/federal-removal/evidence/2022%20-%20Towery%20retirement%20and%20BBMP%20in%20public%20media%20-%20Davis%20Vanguard%20article.pdf) - [Original media article by Vanguard](https://davisvanguard.org/2023/04/silicon-valley-judge-retires-amidst-disclosure-scandal/)
   
-### 3. DVRO used for kidnapping of Max Mars, seizure of property, car VW Tiguan, extortion of money and passport of Max Mars - signed by disqualified and "retired" criminal James Towery in September 2022
+### ⭕️ 3. DVRO used for kidnapping of Max Mars, seizure of property, car VW Tiguan, extortion of money and passport of Max Mars - signed by disqualified and "retired" criminal James Towery in September 2022
 
 - [2022-09-14 DVRO signed by Towery - Hanna Mars - Case 22DV000779](/federal-removal/evidence/2022-09-14%20DVRO%20signed%20by%20Towery%20-%20Hanna%20Mars%20-%20Case%2022DV000779.pdf)
   
   
-### 4. Extortion and theft of $200,000 by criminals Andrea Flint, Steven Dinneen, Nancy Roberts through attorney fees, screener, paid supervisors and unlawful wage garnishment via DCSS:
+### ⭕️ 4. Extortion and theft of $200,000 by criminals Andrea Flint, Steven Dinneen, Nancy Roberts through attorney fees, screener, paid supervisors and unlawful wage garnishment via DCSS:
 
 - [2022-10-31 DVRO trial denied, extortion of $10,600 by detaining Max Mars hostage, blocking all contact under "court order" signed by criminal Andrea Flint, "court ordered" emergency screening and paid supervised visits - Flint - 22DV000779 & 22FL003144](/federal-removal/evidence/2022-10-31%20DVRO%20trial%20denied,%20extortion%20of%20$10,600%20by%20detaining%20Max%20Mars,%20and%20ordering%20no%20contact,%20paid%20visits,%20emergency%20screening%20-%20Flint%20-%2022DV000779%20&%2022FL003144.pdf)
 
@@ -127,7 +127,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [Ledger: Total Theft of $200,000 by California Judicial Mafia Cartel](/federal-removal/evidence/Ledger_%20Total%20Theft%20of%20$200,000%20by%20California%20Judicial%20Mafia%20Cartel.pdf)
 
-### 5. Abduction of Max Mars And Detention Without Right For a Phone Call. Extortion of passport, green card and all documents of my son Max Mars. Beating of Max by mother Gnyda Nahonra on Max's birthday in 2023, bruises on Max's body, international abduction outside of the United States to Ukraine
+### ⭕️ 5. Abduction of Max Mars And Detention Without Right For a Phone Call. Extortion of passport, green card and all documents of my son Max Mars. Beating of Max by mother Gnyda Nahonra on Max's birthday in 2023, bruises on Max's body, international abduction outside of the United States to Ukraine
 
 - [2022-12-10 Bruises observed on Max's body during paid supervised visitation](/federal-removal/evidence/2022-12-10%20Bruises%20observed%20on%20Max's%20body%20during%20paid%20supervised%20visitation.pdf)
 
@@ -141,7 +141,7 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2023-06-29 Extortion of passport, green card and all documents of my abducted son Max Mars by criminal Andrea Flint, denial of custody review hearing, extension of unlawful detention of Max as leverage of extortion](/federal-removal/evidence/2023-06-29%20Extortion%20of%20passport%20and%20documents%20of%20Max%20Mars%20by%20Andrea%20Flint,%20denial%20of%20custody%20review%20hearing,%20extension%20of%20unlawful%20detention%20of%20Max%20as%20leverage%20of%20extortion.pdf)
 
 
-### 6. Orders post DQ
+### ⭕️ 6. Orders post DQ
 
 - [2022-09-14 - Towery - DVRO - Kidnapping of Max Mars](/federal-removal/evidence/orders/2022-09-14%20-%20Towery%20-%20DVRO%20-%20Kidnapping%20of%20Max%20Mars.pdf)
 
@@ -224,7 +224,7 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2025-02-20 - Santa Clara Sheriffs Office - Search Warrant Notice](/federal-removal/evidence/orders/2025-02-20%20-%20Santa%20Clara%20Sheriffs%20Office%20-%20Search%20Warrant%20Notice.pdf)
 
 
-### 6. Denial Orders (Recusal, Custody Review, DVRO Trial)
+### ⭕️ 7. Denial Orders (Recusal, Custody Review, DVRO Trial)
 
 - [2022-10-31 - Flint - DVRO Trial DENIED. No contact, supervised visits, extortion of money and emergency screening](/federal-removal/evidence/denial-orders/2022-10-31%20-%20Flint%20-%20DVRO%20Trial%20-%20DENIED.%20No%20contact,%20supervised%20visits,%20extortion%20of%20money%20and%20emergency%20screening.pdf)
 
