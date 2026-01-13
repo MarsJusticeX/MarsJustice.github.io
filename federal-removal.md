@@ -47,9 +47,9 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2.3 Statements of Disqualification – Towery](/federal-removal/evidence/2.3%20Statements%20of%20Disqualification%20–%20Towery.pdf)
 
-- [2.3 Statement of Disqualification – Towery 2022-12-06](/federal-removal/evidence/2.3%20Statement%20of%20Disqualification%20–%20Towery%202022-12-06.pdf)
-
 - [2.3.1 Statement of Disqualification – Towery 2017-01-12](/federal-removal/evidence/2.3.1%20Statement%20of%20Disqualification%20–%20Towery%202017-01-12.pdf)
+
+- [2.3.2 Statement of Disqualification – Towery 2022-12-06](/federal-removal/evidence/2.3.2%20Statement%20of%20Disqualification%20–%20Towery%202022-12-06.pdf)
 
 
 - [2.4 PAJAR confirmation of concealed DQs](/federal-removal/evidence/2.4%20PAJAR%20confirmation%20of%20concealed%20DQs.pdf)
