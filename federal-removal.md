@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Federal Removal
+title: FEDERAL REMOVAL
 permalink: /federal-removal/
 ---
 
-# Federal Removal
+# FEDERAL REMOVAL
 Federal Removal materials are published here publicly for transparency about abduction of my son Max Mars and in case of unlawful incarceration by Santa Clara Mafia Cartel - because criminals from Santa Clara Mafia Cartel directly threatened to silence me by unlawful incarceration if I will not surrender custody rights and will continue battle for freedom of my son Max Mars, kidnapped and held hostage by criminals from Santa Clara Mafia Cartel and Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo" (crimninal group of aggressive Ukrainian homosexual pedofiles "SI Trans Group").  
 
 

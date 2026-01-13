@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "California Mafia Cartel"
+title: CALIFORNIA MAFIA CARTEL
 permalink: /california-mafia-cartel/
 ---
-# California Mafia Cartel
+# CALIFORNIA MAFIA CARTEL
 
 Organized criminal syndicate committing child trafficking, kidnappings, theft, extortion and racketeering under color of law across all California courts - protected by criminals in California Commission on Judicial Performance, California Bar Association, Attorney General Office, and District Attorney Office.
 
-## California Mafia Cartel map of criminal hierarchy with the names of exposed criminals:
+## ⭕️ California Mafia Cartel map of criminal hierarchy with the names of exposed criminals:
 
 [![Map]({{ '/assets/png/california-judicial-mafia-cartel-map.png' | relative_url }})]({{ '/assets/png/california-judicial-mafia-cartel-map.png' | relative_url }})
 
@@ -17,7 +17,7 @@ Similar structure and patterns of racketeering are well established and document
 I discovered this massive criminal syndicate due to kidnapping of my son Max Mars - who is detained hostage without right for a phone call since kidnapping by criminals from California Judicial Mafia Cartel in September 2022.  
 While I disqualified three bribed judges - child traffickers Stephen Lowney, Andrea Flint, James Towery, who were extorting passport and documents of my son Max Mars, detaining my son hostage without right for a phone call for long three years, I faced denial of access to all California courts (by Vex Lit), unlawful arrests, arrest and bench warrants from both family and criminal court, theft through unlawful wages garnishment by DCSS, termination of employment, seizure of my 401k, threats of unlafwul incarceration.
 
-## Royce Mars : Public Statement About Kidnapping Of My Son Max Mars By Criminals From California Judicial Mafia Cartel
+## ⭕️ Royce Mars : Public Statement About Kidnapping Of My Son Max Mars By Criminals From California Judicial Mafia Cartel
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
@@ -31,7 +31,7 @@ While I disqualified three bribed judges - child traffickers Stephen Lowney, And
 
 My public statement clarifies situation about kidnapping and unlawful detention of my son Max Mars hostage without right for a phone call by organized group of criminals from California Judicial Mafia Cartel and Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo" ("SI Trans Group").
 
-## Brief Of Public Statement About Kidnapping Of My Son Max Mars By Criminals From California Judicial Mafia Cartel
+## ⭕️ Brief Of Public Statement About Kidnapping Of My Son Max Mars By Criminals From California Judicial Mafia Cartel
 
 [![Map]({{ '/assets/png/royce-mars-public-statement-about-california-judicial-mafia-cartel.png' | relative_url }})]({{ '/assets/png/royce-mars-public-statement-about-california-judicial-mafia-cartel.png' | relative_url }})
 
@@ -45,7 +45,7 @@ Justice in California is impossible - it was confirmed by Beth McGowen, presidin
 
 Disqualified child trafficker Stephen Lowney directly threatened me by unlawful incarceration, extorting passport and all documents of my son Max Mars - while detaining my son hostage without right for a phone call under void DVRO.
 
-## Stephen Lowney, Child Trafficker and Racketeer From Santa Clara Mafia Cartel : Recording Of Hearing 02/07/2024 - Extortion Of Passport And Documents Of My Son Max Mars, Threats of Unlawful Incarceration
+## ⭕️ Stephen Lowney, Child Trafficker and Racketeer From Santa Clara Mafia Cartel : Recording Of Hearing 02/07/2024 - Extortion Of Passport And Documents Of My Son Max Mars, Threats of Unlawful Incarceration
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
