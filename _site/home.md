@@ -1,4 +1,4 @@
 layout: page
-title: "Home"
+title: "MARS JUSTICE"
 permalink: /home/
 Home
