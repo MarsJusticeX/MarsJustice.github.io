@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-header .project-name {
   margin: 0;
-  padding: 0;
+  padding: 1rem 1rem 0.75rem; // padding: 0;
   line-height: 1.1;
 }
 
@@ -137,3 +137,71 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem; /* optional */
 }
 
+.page-header {
+  height: clamp(280px, 35vh, 450px);
+}
+
+.project-name {
+  white-space: normal;     /* allow wrapping */
+  text-align: center;
+  flex-shrink: 0;          /* DO NOT shrink */
+  max-width: 100%;
+  word-break: break-word;  /* break long words if needed */
+}
+
+.page-header {
+  overflow: visible;
+}
+
+.page-header {
+  background-image: url('/assets/png/banner.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: clamp(300px, 35vh, 420px);
+  padding: clamp(0.75rem, 2vw, 1.5rem);
+
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+.project-name {
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;
+
+  text-align: center;
+  white-space: normal;
+  word-break: break-word;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+
+.header-nav {
+  margin-top: auto;
+  margin-bottom: 0.5rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  .page-header {
+    min-height: 320px;
+  }
+
+  .page-header nav a {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+  }
+}
