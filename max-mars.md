@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MAX MARS - KIDNAPPING
+title: MAX MARS KIDNAPPING
 permalink: /max-mars/
 ---
 

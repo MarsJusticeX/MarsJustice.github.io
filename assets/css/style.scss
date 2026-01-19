@@ -79,3 +79,70 @@ h1, h2, h3, h4, h5, h6 {
 .no-underline {
   text-decoration: none;
 }
+
+// .page-header {
+//   height: clamp(300px, 35vh, 420px);
+//   display: grid;
+//   grid-template-rows: 80% 20%;
+//   padding: 2.5rem 1rem;
+//   box-sizing: border-box;
+// }
+
+/* Top area (title) */
+.project-name {
+  align-self: center;
+}
+
+/* Bottom 20% nav area */
+.header-nav {
+  margin-top: auto; /* pushes nav to bottom of header */
+  margin: auto 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+@media (max-width: 768px) {
+  .page-header {
+    grid-template-rows: 70% 30%;
+  }
+}
+
+.header-slogan {
+  max-width: 420px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
+@media (max-width: 768px) {
+  .page-header .project-name {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+.page-header .project-name {
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;
+}
+
+.page-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertically center top content */
+  align-items: center;     /* horizontal center */
+  height: 400px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-slogan {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem; /* optional */
+}
+

@@ -350,3 +350,19 @@ h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", Arial, san
 .page-header nav a:hover { background: #ff0030; /* RoyalLawX red */ border-color: #ff0030; color: #fff; transform: translateY(-2px); }
 
 .no-underline { text-decoration: none; }
+
+/* Top area (title) */
+.project-name { align-self: center; }
+
+/* Bottom 20% nav area */
+.header-nav { margin-top: auto; /* pushes nav to bottom of header */ margin: auto 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+
+@media (max-width: 768px) { .page-header { grid-template-rows: 70% 30%; } }
+.header-slogan { max-width: 420px; width: 100%; height: auto; display: block; margin: 0 auto; }
+
+@media (max-width: 768px) { .page-header .project-name { font-size: 1.8rem; margin-bottom: 0.5rem; } }
+.page-header .project-name { margin: 0; padding: 0; line-height: 1.1; }
+
+.page-header { display: flex; flex-direction: column; justify-content: center; /* vertically center top content */ align-items: center; /* horizontal center */ height: 400px; padding: 0; box-sizing: border-box; }
+
+.header-slogan { margin-top: 0.5rem; margin-bottom: 1rem; /* optional */ }
