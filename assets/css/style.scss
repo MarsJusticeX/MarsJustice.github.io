@@ -25,7 +25,6 @@ a:focus {
 /* Make titles in the main content red */
 .main-content h1 {
   color: #000000; // #ff0030; /* RoyalLawX red - elegant, not neon */
-  font-weight: 700;
   letter-spacing: 0.5px;     /* optional */
 }
 
@@ -35,15 +34,15 @@ a:focus {
   color: #000000; // #ff0030;
 }
 
-/* Apply Red Hat Display globally */
+/* Apply Montserrat globally */
 body {
-  font-family: "Red Hat Display", "Open Sans", Arial, sans-serif;
+  font-family: "Montserrat", "Open Sans", Arial, sans-serif;
 }
 
 /* Optional: heavier weight for headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Red Hat Display", "Open Sans", Arial, sans-serif;
-  font-weight: 700;
+  font-family: "Montserrat", "Open Sans", Arial, sans-serif;
+  font-weight: 400;
   letter-spacing: 1px; /* optional for a modern look */
 }
 
@@ -70,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Hover effect */
 .page-header nav a:hover {
-  background: #ff0030;          /* RoyalLawX red */
+  background: #ff0030;          /* Mars Red */
   border-color: #ff0030;
   color: #fff;
   transform: translateY(-2px);
@@ -79,14 +78,6 @@ h1, h2, h3, h4, h5, h6 {
 .no-underline {
   text-decoration: none;
 }
-
-// .page-header {
-//   height: clamp(300px, 35vh, 420px);
-//   display: grid;
-//   grid-template-rows: 80% 20%;
-//   padding: 2.5rem 1rem;
-//   box-sizing: border-box;
-// }
 
 /* Top area (title) */
 .project-name {

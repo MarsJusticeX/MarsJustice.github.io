@@ -4,7 +4,7 @@ title: MAX MARS KIDNAPPING
 permalink: /max-mars/
 ---
 
-# MAX MARS - KIDNAPPING
+# MAX MARS KIDNAPPING
 My son Max Mars was kindapped in 2022 by organized group of criminals from Ukrainian mafia cartel "Kodlo Gondona Nahornogo" and California Mafia Cartel - who executed massive child trafficking schema of international abduction of my son outside of the United States to Ukraine, locked up my son Max Mars hostage without right for a phone call, and used my son Max Mars as the leverage for extortion of money and documents.
 
 Reporting criminals from California Mafia Cartel and Santa Clara Mafia Cartel started from the moment when criminals from California Mafia Cartel dumped 65 RICO complaints about child trafficking and racketeering by group of criminals from Santa Clara Mafia Cartel who kidnapped my son Max Mars and were extorting money from me using threats of unlawful incarceration and my son as the leverage for extortion of money and documents.

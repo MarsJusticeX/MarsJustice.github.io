@@ -330,16 +330,16 @@ a { color: #000000; text-decoration: underline; /* optional */ }
 a:hover, a:focus { color: #ff0030; /* darker red on hover for better contrast */ text-decoration: underline; /* optional */ }
 
 /* Make titles in the main content red */
-.main-content h1 { color: #000000; font-weight: 700; letter-spacing: 0.5px; /* optional */ }
+.main-content h1 { color: #000000; letter-spacing: 0.5px; /* optional */ }
 
 /* Optionally make all subheadings dark red */
 .main-content h2, .main-content h3 { color: #000000; }
 
-/* Apply Red Hat Display globally */
-body { font-family: "Red Hat Display", "Open Sans", Arial, sans-serif; }
+/* Apply Montserrat globally */
+body { font-family: "Montserrat", "Open Sans", Arial, sans-serif; }
 
 /* Optional: heavier weight for headings */
-h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", Arial, sans-serif; font-weight: 700; letter-spacing: 1px; /* optional for a modern look */ }
+h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-serif; font-weight: 400; letter-spacing: 1px; /* optional for a modern look */ }
 
 /* Make nav links look like separate blocks */
 .page-header nav { display: flex; flex-wrap: wrap; /* allows wrapping to new lines */ justify-content: center; /* centers the tiles */ gap: 10px; /* spacing between tiles */ margin-top: 15px; }
@@ -347,7 +347,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", Arial, san
 .page-header nav a { display: inline-block; /* makes them behave like blocks but flow nicely */ background: rgba(0, 0, 0, 0.6); /* subtle transparent tile background */ color: #fff; padding: 10px 20px; border-radius: 8px; /* soft corners */ text-decoration: none; font-weight: 600; transition: all 0.25s ease-in-out; border: 1px solid rgba(255, 255, 255, 0.2); }
 
 /* Hover effect */
-.page-header nav a:hover { background: #ff0030; /* RoyalLawX red */ border-color: #ff0030; color: #fff; transform: translateY(-2px); }
+.page-header nav a:hover { background: #ff0030; /* Mars Red */ border-color: #ff0030; color: #fff; transform: translateY(-2px); }
 
 .no-underline { text-decoration: none; }
 
