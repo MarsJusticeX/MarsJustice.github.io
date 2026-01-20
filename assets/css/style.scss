@@ -198,6 +198,9 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 768px) {
   .page-header {
     min-height: 320px;
+    background-image: url('/assets/png/banner-mobile.png');
+    background-size: cover;
+    background-position: center top; /* better for tall images */
   }
 
   .page-header nav a {

@@ -379,5 +379,5 @@ h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-ser
 
 .header-nav { margin-top: auto; margin-bottom: 0.5rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%; }
 
-@media (max-width: 768px) { .page-header { min-height: 320px; }
+@media (max-width: 768px) { .page-header { min-height: 320px; background-image: url("/assets/png/banner-mobile.png"); background-size: cover; background-position: center top; /* better for tall images */ }
   .page-header nav a { padding: 6px 12px; font-size: 0.8rem; } }
