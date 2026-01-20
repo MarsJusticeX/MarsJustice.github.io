@@ -13,7 +13,7 @@ Our mission is to save America's future - our children, our parents, citizens an
 
 For California under Gavin Newsom's California Mafia Cartel this nowadays means "PUT JUDGES IN PRISON".
 
-Catastrophic outburst of uncontrollable organized white collar crime, child trafficking, extortion and racketeering by judges and cops acting under color of law in California under Gavin Newsom's California Mafia Cartel turned into state-wide disaster, which ruined lives of thousands of children and their parents, hardworking Americans, who believed in America, but were robbed and incarcerated by criminals using America's name to rob and enslave American people.
+Catastrophic outburst of uncontrollable organized white collar crime, child trafficking, extortion and racketeering by judges and cops acting under color of law in California under Gavin Newsom's California Mafia Cartel turned into state-wide disaster, which ruined lives of thousands of children and their parents, hardworking Americans, who believed in America, but were robbed and enslaved by criminals who shamelessly use America's name to commit organized crime.
 
 People of America, and especially children of America, deserve freedom, and judges who use kidnapping of children for extortion of money must go to prison.
 
