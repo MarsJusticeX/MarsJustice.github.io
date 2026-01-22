@@ -7,7 +7,7 @@ title: "MARS JUSTICE"
   
 Make America Great Again - means first Make America Free Again. 
 
-Each American, adult or minor child, deserves freedom from slavery, kidnapping, child trafficking, malicious prosecution, unlawful incarceration or robbery by government authorities acting under color of law. 
+Each American, adult or minor child, deserves freedom from slavery, kidnapping, child trafficking, malicious prosecution, unlawful incarceration or robbery by government officials acting under color of law. 
 
 Our mission is to save America's future - our children, our parents, citizens and residents of the United States, who are investing their time, effort and energy into Making America Great Again - but got kindapped, robbed, unlawfully incarcerated by organized criminals from mafia cartels which commit their racketeering activities under guise of government, police and judicial authorities.    
 
@@ -17,7 +17,7 @@ Catastrophic outburst of uncontrollable organized white collar crime, child traf
 
 People of America, and especially children of America, deserve freedom - and judges who use kidnapping of minor children and murders of senior women with disabilities as the leverage for extortion of money must either get executed by death, or serve life sentences in federal prison.
 
-We encourage you to learn best practices for prosecution of judges, police officers, government officials and other criminals acting under color of law - to protect your children, your loved ones, and yourself, and to Make America Free Again.
+We encourage you to learn best practices for prosecution of judges, police officers, government officials and other criminals acting under color of law - to protect your children, your loved ones, yourself, and to Make America Free Again.
 
   
 Here you can find:  
